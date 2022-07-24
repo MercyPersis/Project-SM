@@ -1,2 +1,2 @@
-# Project-SM
+# Project-SocialMedia
 SocialMediaWebsite
